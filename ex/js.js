@@ -447,3 +447,242 @@ iterateLetters(ingredients);
 
 
 //8
+
+
+
+
+
+
+
+
+//1a.
+
+let age = 16;
+
+//1b.
+
+const name = "Hasanu Zzaman";
+
+//1c.
+
+// let isMarried = false;
+
+//1d.
+
+// age ++;
+//1e
+
+//because let give us way to change value it
+
+//1f
+//because if you declar the variable by useing const we can't change the value
+//2a
+//Number
+//2b
+//string
+//2c
+//boolean
+//2d
+//string
+//2e
+console.log(typeof("Hello"))
+
+"True"
+
+"false"
+
+true
+
+"boolean"
+
+"false"
+
+"True"
+
+"True"
+
+"false"
+
+"True"
+
+"True"
+
+3
+
+["10", "7", "1"]
+
+["10", "7", "1", "2"]
+
+["12", "10", "7", "1", "2"]
+
+"12"
+
+"For pancakes you will need 12, 10, 7, 1 and 2."
+
+0
+
+["Banana", "Oats", "Milk", "kota"]
+
+["Banana", "Oats", "Milk", "kota"]
+
+3
+
+"false"
+
+"True"
+
+[1, 1, 1]
+
+"number"
+
+"function"
+
+"number"
+
+"string"
+
+"Running..."
+
+"undefined"
+
+"The type of v is number"
+
+"The type of v is function"
+
+"false"
+
+5
+
+"2"
+
+"Hello, Hasanu Zzaman, how are you doing?"
+
+"Hello, Hasanu Zzaman, how are you doing?"
+
+"For pancakes you will need Banana, Oats and Milk."
+
+"ls|cd|touch|cp"
+
+"number"
+
+"string"
+
+"boolean"
+
+"string"
+
+"number"
+
+"string"
+
+undefined
+
+0
+
+"number"
+
+"undefined"
+
+"number"
+
+"no"
+
+"no"
+
+"no"
+
+"yes"
+
+"no"
+
+11
+
+14
+
+6
+
+10
+
+"Hello,world"
+
+5
+
+"boolean"
+
+"false"
+
+"True"
+
+"false"
+
+true
+
+"boolean"
+
+"false"
+
+"True"
+
+"True"
+
+"false"
+
+"True"
+
+"True"
+
+3
+
+["10", "7", "1"]
+
+["10", "7", "1", "2"]
+
+["12", "10", "7", "1", "2"]
+
+"12"
+
+"For pancakes you will need 12, 10, 7, 1 and 2."
+
+0
+
+["Banana", "Oats", "Milk", "kota"]
+
+["Banana", "Oats", "Milk", "kota"]
+
+3
+
+"false"
+
+"True"
+
+[1, 1, 1]
+
+"number"
+
+"function"
+
+"number"
+
+"string"
+
+"Running..."
+
+"undefined"
+
+"The type of v is number"
+
+"The type of v is function"
+
+"false"
+
+5
+
+"2"
+
+"Hello, Hasanu Zzaman, how are you doing?"
+
+"Hello, Hasanu Zzaman, how are you doing?"
+
+"For pancakes you will need Banana, Oats and Milk."
+
+"ls|cd|touch|cp"
